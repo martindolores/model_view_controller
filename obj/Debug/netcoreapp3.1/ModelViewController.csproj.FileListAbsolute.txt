@@ -1,0 +1,16 @@
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.ExampleView.resources
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.csproj.GenerateResource.cache
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.AssemblyInfoInputs.cache
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.AssemblyInfo.cs
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\bin\Debug\netcoreapp3.1\ModelViewController.exe
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\bin\Debug\netcoreapp3.1\ModelViewController.deps.json
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\bin\Debug\netcoreapp3.1\ModelViewController.runtimeconfig.json
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\bin\Debug\netcoreapp3.1\ModelViewController.runtimeconfig.dev.json
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\bin\Debug\netcoreapp3.1\ModelViewController.dll
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\bin\Debug\netcoreapp3.1\ModelViewController.pdb
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.dll
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.pdb
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.genruntimeconfig.cache
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Model-View-Controller\ModelViewController\obj\Debug\netcoreapp3.1\ModelViewController.csproj.AssemblyReference.cache
